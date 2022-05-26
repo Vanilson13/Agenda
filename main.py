@@ -2,8 +2,8 @@ from flask import Flask, render_template, request, redirect
 app = Flask('app')
 
 contacts = [
-  {'name': 'vandilson da Silva' },
-  {'name': 'Luciana Souza' },
+  {'name': 'João da Silva' },
+  {'name': 'Maria Souza' },
 ]
   
 
